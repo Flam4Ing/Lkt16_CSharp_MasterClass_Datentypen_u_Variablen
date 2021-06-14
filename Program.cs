@@ -12,8 +12,9 @@ namespace Lkt16_CSharp_MasterClass_Datentypen_u_Variablen
         {
             //primitive Datentypen
             bool myFileIsSaved = true;
-            byte myByte = 2;
+            byte myByte = -2;
             char myChar = (char)006;
+            char myChar = 'F';
             int myInt = 36633;
             float myFloat = 55.66f;
             double myDouble = 6000.999;
